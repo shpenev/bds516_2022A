@@ -2,7 +2,7 @@ name: "BDS516 2022A"
 output_dir: "."
 output:
   html_document:
-    theme: united
+    theme: darkly
     highlight: tango
 
 navbar:

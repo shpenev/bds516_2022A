@@ -4,3 +4,4 @@ title: "BDS516 2022A Cohort Website"
 
 Hello, Folks! Here's the website from the 2022 version of BDS516 and here is some information about the course.
 
+Here's my [CV](cv.pdf)

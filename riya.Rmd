@@ -1,0 +1,12 @@
+---
+title: "Riya"
+
+---
+
+Hi!
+
+Thank you for a great class! :)
+
+Here is a [picture](Cat Doing Data Science.jpeg) of a cat as a reward.
+
+- Riya Sirdeshmukh

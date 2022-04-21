@@ -1,0 +1,31 @@
+---
+title: "Isha Jain - MBDS Student"
+---
+
+<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+<div class="alert alert-dismissible alert-warning">
+  <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+  <h4 class="alert-heading">Warning!</h4>
+  <p class="mb-0">You've entered a very cool website!!</p>
+</div>
+
+
+
+Class number | Class Name
+------------- | -------------
+Class 1 | BDS 516
+Class 2 | BDS 502
+
+
+
+  <blockquote class="blockquote">
+    <p class="mb-0">This has been a great class!</p>
+  
+  </blockquote>
+  <figcaption class="blockquote-footer">
+    Isha Jain <cite title="BDS 516">Source Title</cite>
+  </figcaption>
+

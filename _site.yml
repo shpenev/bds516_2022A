@@ -14,3 +14,6 @@ navbar:
       href: about.html
     - text: "Shpenev"
       href: shpenev.html  
+    - text: "Isha testing"
+      href: ishatesting.html  
+      
